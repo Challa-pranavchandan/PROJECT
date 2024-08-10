@@ -21,8 +21,9 @@ span{
     background-attachment: fixed;
     background-size: cover;
     width: 100%;
-
 }
+#center_sub{ -webkit-text-stroke: 1px black;}
+#center_main{ -webkit-text-stroke: 1px black;}
 #nav{
     line-height:.75;
     font-size: 25px;
@@ -257,7 +258,7 @@ button:hover {
 .exercise{  
     display: flex;
     height: 3.5em;
-    width: 4em;
+    width: 5em;
 
 
     border-radius: 10px;

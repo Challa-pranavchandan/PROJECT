@@ -15,7 +15,7 @@ span{
 #nav h1{font-size: 65px;}
 #nav h3{font-size: 20px;}
 #page1{
-    background-image: url(./pexels-photo-3112004.jpeg);
+    background-image: url(./pexels-photo-3112004.webp);
     height: 100vh;
     background-position: center;
     background-attachment: fixed;
@@ -248,7 +248,7 @@ button:hover {
 #page3{
     height: 100%;
     width: 100%;
-    background-image: url(./page3bg.jpg);
+    background-image: url(./page3bg.webp);
     background-position:center;
     background-size:cover;
     background-position: 50%;
@@ -273,33 +273,33 @@ button:hover {
     color:white;
 }
 #Warmup{
-    background-image: url(./warmup.jpg);
+    background-image: url(./warmup.webp);
     background-position: fill;
     background-size:cover;
 
 }
 #chest{
-    background-image: url(./chest.jpg);
+    background-image: url(./chest.webp);
     background-position: center;
     background-size:cover;
 }
 #back{
-    background-image: url(./Back.jpg);
+    background-image: url(./Back.webp);
     background-position: fill;
     background-size:cover;
 }
 #leg{
-    background-image: url(./Legs.png);
+    background-image: url(./Legs.webp);
     background-position: fill;
     background-size:cover;
 }
 #Arm{
-    background-image: url(./Arm.png);
+    background-image: url(./Arm.webp);
     background-position: center;
     background-size:cover;
 }
 #Abs{
-    background-image: url(./Abs.png);
+    background-image: url(./Abs.webp);
     background-position: center;
     background-size:cover;
 }
@@ -325,7 +325,7 @@ button:hover {
     #nav h1{font-size: 1.5em;}
     #nav h3{font-size: 0.5em;}
     #page1{
-        background-image: url(./pexels-photo-3112004.jpeg);
+        background-image: url(./pexels-photo-3112004.webp);
         height: 100%;
         background-position: center;
         background-attachment: fixed;
@@ -558,7 +558,7 @@ button:hover {
     #page3{
         height: 100%;
         width: 100%;
-        background-image: url(./page3bg.jpg);
+        background-image: url(./page3bg.webp);
         background-position:center;
         background-size:cover;
         background-position: 50%;

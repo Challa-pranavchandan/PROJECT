@@ -316,6 +316,10 @@ button:hover {
     height: 100px;
     position:bottom;
     background-color:black;
+     color:white;
+        text-align: right;
+        justify-content: left;
+        align-items: center;
 }
 
 

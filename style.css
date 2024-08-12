@@ -317,7 +317,8 @@ button:hover {
        position:bottom;
         background-color:black;
         color:white;
-        justify-content: center;
+    display:flex;
+    justify-content: center;
         align-items: center;
 }
 
